@@ -1,2 +1,3 @@
 # Prediction_Vaccines-IITG-
-Prediction for IITG Summer Analytics Hackathon
+Used two separate models to predict each target then combined them.
+
